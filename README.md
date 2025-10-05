@@ -1,2 +1,2 @@
-# css-exercise-1
+# exercise-2-hyperlinks
 

@@ -1,0 +1,21 @@
+.background {
+    background-color: #c1cde1;
+
+}
+
+.title {
+    color:#6c2f98
+}
+
+.global-nav {
+    background-color:beige
+}
+
+.local-nav {
+    background-color:#e2e5e9
+}
+
+.paragraph {
+    border: 2px solid #000;
+    display: inline-block;
+}
